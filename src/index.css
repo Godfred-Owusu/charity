@@ -2,11 +2,11 @@
 @tailwind components;
 @tailwind utilities;
 
-base{
+:root{
   --primary: #00725E;
   --secondary: #219D80;
 }
 
 .paddings{
-    padding:3rem 3rem ;
+    padding:3rem 3rem;
 }
